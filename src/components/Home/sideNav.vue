@@ -1,7 +1,7 @@
 <template>
-  <router-link to="/" class="p-3">
+  <div class="p-3">
     <VueHero />
-  </router-link>
+  </div>
 </template>
 
 <script>
@@ -14,5 +14,3 @@ export default {
   },
 };
 </script>
-
-<style scoped></style>

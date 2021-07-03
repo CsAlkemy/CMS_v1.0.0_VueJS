@@ -8,28 +8,28 @@
         exact
         exact-active-class="bg-green-500 rounded-full"
         class="text-white p-3"
-        ><HomeIcon class="h-10 w-10"
+        ><HomeIcon class="h-7 w-7"
       /></router-link>
       <router-link
         to="portfolio"
         class="p-3"
         exact
         exact-active-class="bg-green-500 rounded-full"
-        ><TerminalIcon class="h-10 w-10"
+        ><TerminalIcon class="h-7 w-7"
       /></router-link>
       <router-link
         to="blog"
         class="p-3"
         exact
         exact-active-class="bg-green-500 rounded-full"
-        ><RssIcon class="h-10 w-10"
+        ><RssIcon class="h-7 w-7"
       /></router-link>
       <router-link
         to="/about"
         class="p-3"
         exact
         exact-active-class="bg-green-500 rounded-full"
-        ><FireIcon class="h-10 w-10"
+        ><FireIcon class="h-7 w-7"
       /></router-link>
     </div>
   </footer>
