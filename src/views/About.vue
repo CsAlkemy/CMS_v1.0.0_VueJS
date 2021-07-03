@@ -1,5 +1,11 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    About
   </div>
 </template>
+<script>
+import VueHero from "@/components/About/vueHero";
+export default {
+  components: { VueHero },
+};
+</script>
